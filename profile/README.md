@@ -9,6 +9,7 @@ Flighttrackr tries to implement software for the use of aircraft surveillance th
 
 ## Feeders
 
+- [fr24feed](https://github.com/flighttrackr/docker-fr24feed)
 - [mlat-client](https://github.com/flighttrackr/docker-mlat-client)
 - More to come...
 
