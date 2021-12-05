@@ -11,6 +11,7 @@ Flighttrackr tries to implement software for the use of aircraft surveillance th
 
 - [fr24feed](https://github.com/flighttrackr/docker-fr24feed)
 - [mlat-client](https://github.com/flighttrackr/docker-mlat-client)
+- [adsb2influx](https://github.com/flighttrackr/docker-adsb2influx)
 - More to come...
 
 ## Utilities
